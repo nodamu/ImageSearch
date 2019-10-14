@@ -1,4 +1,7 @@
 
+# ImageSearch
+
+
 ## Installation
 
 ```bash
@@ -32,4 +35,3 @@ $ npm run test:cov
 ```
 
 
-# ImageSearch
